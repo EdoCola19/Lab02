@@ -90,7 +90,6 @@ järvi lago
 metsä foresta
 vuori montagna
 joki fiume
-meri mare
 taivas cielo
 tähti stella
 aurinko sole
@@ -106,3 +105,7 @@ lehti rivista
 sanomalehti giornale
 kynä penna
 paperi carta
+meri mare
+cnd casa
+ced topo
+stp ok
